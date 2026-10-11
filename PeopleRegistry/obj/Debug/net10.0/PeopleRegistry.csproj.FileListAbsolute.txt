@@ -1,0 +1,14 @@
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/bin/Debug/net10.0/PeopleRegistry
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/bin/Debug/net10.0/PeopleRegistry.deps.json
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/bin/Debug/net10.0/PeopleRegistry.runtimeconfig.json
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/bin/Debug/net10.0/PeopleRegistry.dll
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/bin/Debug/net10.0/PeopleRegistry.pdb
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.GeneratedMSBuildEditorConfig.editorconfig
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.AssemblyInfoInputs.cache
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.AssemblyInfo.cs
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.csproj.CoreCompileInputs.cache
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.dll
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/refint/PeopleRegistry.dll
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.pdb
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.genruntimeconfig.cache
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/ref/PeopleRegistry.dll
