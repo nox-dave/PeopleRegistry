@@ -12,3 +12,4 @@
 /home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.pdb
 /home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.genruntimeconfig.cache
 /home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/ref/PeopleRegistry.dll
+/home/shahazzad/Desktop/JENSENS-YH/Läxa/PeopleRegistry/PeopleRegistry/obj/Debug/net10.0/PeopleRegistry.sourcelink.json
