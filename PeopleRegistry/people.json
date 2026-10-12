@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 18,
+    "Name": "Anakin Skywalker",
+    "Email": "anakin.skywalker@klarna.com",
+    "Address": {
+      "Street": "Sveavägen 46",
+      "PostalCode": "111 34",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Klarna",
+      "Slogan": "Smoooth payments"
+    }
+  },
+  {
+    "Id": 4,
+    "Name": "Mona Lind",
+    "Email": "mona.lind@seb.se",
+    "Address": {
+      "Street": "Kungsträdgårdsgatan 8",
+      "PostalCode": "106 40",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "SEB",
+      "Slogan": "We help people and businesses thrive"
+    }
+  },
+  {
+    "Id": 27,
+    "Name": "Erik Holm",
+    "Email": "erik.holm@atlascopco.com",
+    "Address": {
+      "Street": "Sickla Industriväg 19",
+      "PostalCode": "105 23",
+      "City": "Nacka"
+    },
+    "Company": {
+      "Name": "Atlas Copco",
+      "Slogan": "Committed to sustainable productivity"
+    }
+  },
+  {
+    "Id": 9,
+    "Name": "Sara Ek",
+    "Email": "sara.ek@essity.com",
+    "Address": {
+      "Street": "Klarabergsviadukten 63",
+      "PostalCode": "101 23",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Essity",
+      "Slogan": "Breaking barriers to well-being"
+    }
+  },
+  {
+    "Id": 31,
+    "Name": "Jonas Ek",
+    "Email": "jonas.ek@vattenfall.com",
+    "Address": {
+      "Street": "Evenemangsgatan 13",
+      "PostalCode": "169 56",
+      "City": "Solna"
+    },
+    "Company": {
+      "Name": "Vattenfall",
+      "Slogan": "Fossil-free living within one generation"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Ida Nordin",
+    "Email": "ida.nordin@sandvik.com",
+    "Address": {
+      "Street": "Kungsbron 1",
+      "PostalCode": "111 22",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Sandvik",
+      "Slogan": "We make the shift"
+    }
+  },
+  {
+    "Id": 15,
+    "Name": "Omar Hassan",
+    "Email": "omar.hassan@ssab.com",
+    "Address": {
+      "Street": "Klarabergsviadukten 70",
+      "PostalCode": "111 64",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "SSAB",
+      "Slogan": "A stronger, lighter and more sustainable world"
+    }
+  },
+  {
+    "Id": 7,
+    "Name": "Freja Dahl",
+    "Email": "freja.dahl@handelsbanken.se",
+    "Address": {
+      "Street": "Kungsträdgårdsgatan 2",
+      "PostalCode": "106 70",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Handelsbanken",
+      "Slogan": "A bank built on customer satisfaction"
+    }
+  },
+  {
+    "Id": 22,
+    "Name": "Nora Lind",
+    "Email": "nora.lind@axfood.se",
+    "Address": {
+      "Street": "Solnavägen 4",
+      "PostalCode": "113 65",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Axfood",
+      "Slogan": "Bättre mat för fler"
+    }
+  },
+  {
+    "Id": 11,
+    "Name": "Axel Fors",
+    "Email": "axel.fors@investorab.com",
+    "Address": {
+      "Street": "Arsenalsgatan 8",
+      "PostalCode": "103 32",
+      "City": "Stockholm"
+    },
+    "Company": {
+      "Name": "Investor",
+      "Slogan": "We build strong companies"
+    }
+  }
+]

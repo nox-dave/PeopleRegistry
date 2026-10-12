@@ -2,27 +2,34 @@ namespace PeopleRegistry;
 
 public class PeopleDirectory
 {
+    private readonly IPeopleSource _peopleSource;
+
+    public PeopleDirectory(IPeopleSource peopleSource)
+    {
+        _peopleSource = peopleSource;
+    }
+
     public void ShowAllById()
     {
-        List<Person> people = HardcodedPeopleSource.GetPeople();
+        List<Person> people = _peopleSource.GetPeople();
         PrintPeople(people.OrderBy(p => p.Id));
     }
 
     public void ShowTopFiveById()
     {
-        List<Person> people = HardcodedPeopleSource.GetPeople();
+        List<Person> people = _peopleSource.GetPeople();
         PrintTopPeople(people.OrderBy(p => p.Id));
     }
 
     public void ShowAllByName()
     {
-        List<Person> people = HardcodedPeopleSource.GetPeople();
+        List<Person> people = _peopleSource.GetPeople();
         PrintPeople(people.OrderBy(p => p.Name));
     }
 
     public void ShowTopFiveByName()
     {
-        List<Person> people = HardcodedPeopleSource.GetPeople();
+        List<Person> people = _peopleSource.GetPeople();
         PrintTopPeople(people.OrderBy(p => p.Name));
     }
 
@@ -39,7 +46,7 @@ public class PeopleDirectory
         }
 
         string lowerCaseName = trimmedName.ToLower();
-        List<Person> people = HardcodedPeopleSource.GetPeople();
+        List<Person> people = _peopleSource.GetPeople();
         var matches = people.Where(p => p.Name.ToLower().IndexOf(lowerCaseName) >= 0).OrderBy(p => p.Id);
 
         int numberShown = 0;

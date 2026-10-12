@@ -1,8 +1,8 @@
 namespace PeopleRegistry;
 
-public static class HardcodedPeopleSource
+public class HardcodedPeopleSource : IPeopleSource
 {
-    public static List<Person> GetPeople()
+    public List<Person> GetPeople()
     {
         return new List<Person>
         {
