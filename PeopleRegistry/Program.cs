@@ -6,7 +6,15 @@ internal class Program
     {
         IPeopleSource peopleSource = new HardcodedPeopleSource();
         var directory = new PeopleDirectory(peopleSource);
-        var menu = new Menu(directory);
-        menu.Run();
+
+        if (args.Length == 0)
+        {
+            var menu = new Menu(directory);
+            menu.Run();
+            return;
+        }
+
+        var commandHandler = new CommandHandler(args, directory);
+        commandHandler.Handle();
     }
 }
